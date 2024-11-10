@@ -1,4 +1,6 @@
 1. INSTALL NODEJS TO THE PROJECT FOLDER FOR THE BACKEND
 ->npx create-next-app@latest 'frontend-next-booking-app'
 2.INSTALL ICONS 
-->npm i react-icons
+->npm i react-icons 
+3. INSTALL THE BRIDGE CONNECTION OF APPWRITE TO NEXTJS PROJECT 
+->npm i node-appwrite
