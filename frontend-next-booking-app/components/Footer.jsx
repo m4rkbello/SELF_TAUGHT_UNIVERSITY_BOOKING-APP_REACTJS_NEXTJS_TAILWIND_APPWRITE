@@ -3,7 +3,6 @@ const Footer = () => {
 //kuhaon ang karun na tuig 
 const currentYear = new Date().getFullYear();
 
-
     return (
             <footer className=" py-6">
                 <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
