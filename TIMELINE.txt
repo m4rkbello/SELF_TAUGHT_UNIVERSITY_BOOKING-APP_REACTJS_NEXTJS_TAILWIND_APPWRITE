@@ -1,2 +1,2 @@
 1. INSTALL NODEJS TO THE PROJECT FOLDER FOR THE BACKEND
-->npx create-next-app@latest 'BOOKING-APP'
+->npx create-next-app@latest 'frontend-next-booking-app'
